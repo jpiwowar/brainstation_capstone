@@ -1,0 +1,27 @@
+<li class="p1"><a href="https://drive.google.com/file/d/1-ADbyB1k1IIv3bjs70nG_m0C0zigI5n5/view?usp=sharing">ALL of 2017 </a></li>
+<li class="p1"><a href="https://drive.google.com/file/d/18nSmd8szs1abJ-_emITXkjPMhQ0sAA-k/view?usp=sharing" target="_blank">January 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/18ZgxCe4Oo2Pus7HgHLecH9uuGtylwOaD/view?usp=sharing" target="_blank">February 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/18BLHoJHkFf6Y1TU91tWh36q7wEbrMJjj/view?usp=sharing" target="_blank">March 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/17yEKUosmvk20MgXFbdK9b8W8v-RTa_Ud/view?usp=sharing" target="_blank">April 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/17tDVH1CfB4MSbVkRj5sUmiTua5ra49b6/view?usp=sharing" target="_blank">May 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1BblN6ENWBPWAti262GTo9IOqYOPJG7ez/view?usp=sharing" target="_blank">June 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1Cz4c2AmQjEErm97Nj7Hytrr4VfpuG5F6/view?usp=sharing">July 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1-evwGaCtvfRIUYj6A1GPl6ByCkhgfQhM/view?usp=sharing">August 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/10CIaBaPwAEEKRrMitubYSZaG9VRaZKAI/view?usp=sharing">September 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1-uyrFleVIHZjyNIj-iCbtJ63vFZnTVS7/view?usp=sharing">October 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/123RFp09U95pD7EkUl1alkuAEqQnhX7bJ/view?usp=sharing">November 2018</a> </li>
+	<li class="p1"><a href="https://drive.google.com/file/d/17dCNNei6gUNDtzeFIMKfJ8xaWSYTxki2/view?usp=sharing" target="_blank">December 2018</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1Adg34DeBYIlOd_mxSDUeinPEkhJFkTkX/view?usp=sharing">January 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1Egm1hWCTUFIKIDQDK4pScnpQbjpfRJof/view?usp=sharing">February 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1Fl2DVuNMMWFMo8a3EHilfxck0KJH0Cu5/view?usp=sharing">March 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1oRpGt22rjkvZrC7cIhDnQdf-dojfkMOm/view?usp=sharing">April 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1620iRVKfAPs0pzmpfupEPcStQ61vAZmQ/view?usp=sharing">May 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/16RsSrz42HlNWr7O0G5axxXS6wYMi48Ys/view?usp=sharing">June 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/16b7RpWOj_O-tYfZM23KJlMyj9c0kqMXA/view?usp=sharing" target="_blank">July 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/17-W2UMCgjXopvJUPZ-eWhEOxtjs73ZhW/view?usp=sharing">August 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/19aqDJksVY87l1yavpQWbA5UNkwzrBVtE/view?usp=sharing" target="_blank">September 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1DXPDzxt5HKkOV5e7B2veQ0PMVtih44LJ/view?usp=sharing">October 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1F5fPg4JEpYXbI3dX1gv7he88gv3CXIfa/view?usp=sharing" target="_blank">November 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1JxpJlpllThBmdbMxYXhBEDnckPtNUkXd/view?usp=sharing">December 2019</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1MCUVg0LJMOJJmvY2PeP91gSmJL3HXobS/view?usp=sharing">January 2020</a></li>
+	<li class="p1"><a href="https://drive.google.com/file/d/1feKIQOmOLgNlQWDkqdD0P9LlZopp_c6U/view?usp=sharing">February 2020</a></li>
